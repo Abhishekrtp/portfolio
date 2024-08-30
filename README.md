@@ -1,1 +1,2 @@
 # portfolio
+@Creative Frontend Developer with a passion for crafting responsive, user-centric web interfaces. With a strong foundation in HTML, CSS, JavaScript,Tailwind, Bootstrap Jquery and modern frameworks, I bring designs to life with seamless functionality and aesthetic appeal. My portfolio includes projects like Amazon Clone, Skyrocket, and other dynamic web applications that showcase my ability to blend creativity with technical expertise.
